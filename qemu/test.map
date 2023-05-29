@@ -1,0 +1,1136 @@
+Archive member included because of file (symbol)
+
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-clock.o)
+                              C:\Users\User\AppData\Local\Temp\ccGia7mA.o (_clock)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-exit.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4/crt0.o (_exit)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-impure.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-exit.o) (__global_impure_ptr)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memcpy.o)
+                              C:\Users\User\AppData\Local\Temp\ccGia7mA.o (_memcpy)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-printf.o)
+                              C:\Users\User\AppData\Local\Temp\ccGia7mA.o (_printf)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-timesr.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-clock.o) (__times_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-printf.o) (__vfprintf_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wsetup.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o) (___swsetup_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o) (__dtoa_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fflush.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o) (__fflush_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-findfp.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-printf.o) (___sinit)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fwalk.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fflush.o) (__fwalk_reent)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o) (__localeconv_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-makebuf.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wsetup.o) (___smakebuf_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o) (_malloc)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mem_dumb.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o) (___default_morecore)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memchr.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o) (_memchr)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mem_dumb.o) (__heap)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memset.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-findfp.o) (_memset)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o) (__Balloc)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-realloc.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o) (_realloc)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-s_fpclassify.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o) (___fpclassifyd)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-stdio.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-findfp.o) (___sread)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-strcmp.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o) (_strcmp)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-strlen.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o) (_strlen)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfiprintf.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o) (___sprint_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-writer.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-stdio.o) (__write_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-calloc.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o) (_calloc)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-closer.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-stdio.o) (__close_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fclose.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-findfp.o) (__fclose_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fputwc.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfiprintf.o) (__fputwc_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-free.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o) (_free)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fstatr.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-makebuf.o) (__fstat_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fvwrite.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfiprintf.o) (___sfvwrite_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-isattyr.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-makebuf.o) (__isatty_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-lseekr.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-stdio.o) (__lseek_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memmove.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-realloc.o) (_memmove)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-readr.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-stdio.o) (__read_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-reent.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-writer.o) (_errno)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wbuf.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fputwc.o) (___swbuf_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wcrtomb.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fputwc.o) (__wcrtomb_r)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wctomb_r.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wcrtomb.o) (___wctomb)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(arsh32.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o) (ARShift32)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(dadd.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o) (DAdd)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(daux.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(dadd.o) (DFrExp)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(dcmp.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o) (DCmp)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(ddiv.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o) (DDiv)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(div32.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o) (IDiv32)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(div64.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o) (UDiv64)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(dmul.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o) (DMul)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(dtoi32.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o) (ConvDtoI32)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(fp_flags.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(daux.o) (__FPIEEE_Flags)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(i32tod.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o) (ConvI32toD)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(lsh32.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o) (LShift32)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(lsh64.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(dtoi32.o) (LShift64)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(mod32.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o) (IMod32)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(mod64.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o) (UMod64)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(mul32.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o) (Mul32)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(rsh32.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o) (RShift32)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(rsh64.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o) (RShift64)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(u32tod.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o) (ConvU32toD)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libsemihost.a(semiwrapper.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-closer.o) (__close)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libsemihost.a(semihost.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libsemihost.a(semiwrapper.o) (_semi_fclose)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-abort.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libsemihost.a(semiwrapper.o) (_abort)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signal.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-abort.o) (_raise)
+c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signalr.o)
+                              c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signal.o) (__kill_r)
+
+Allocating common symbols
+Common symbol       size              file
+
+___free_hook        0x4               c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-free.o)
+_errno              0x4               c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-reent.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+C0_IMU0          0x0000000000000200 0x0000000000007e00
+C0_IMU1          0x0000000000008000 0x0000000000008000
+C0_IMU2          0x0000000000010000 0x0000000000008000
+C0_IMU3          0x0000000000018000 0x0000000000008000
+SHMEM            0x00000000000a0000 0x0000000000020000
+EMI              0x0000000020000000 0x0000000008000000
+*default*        0x0000000000000000 0x3fffffffffffffff
+
+Linker script and memory map
+
+LOAD c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4/crt0.o
+LOAD c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4/crti.o
+
+.text           0x0000000000000200      0xfe0
+ *(text)
+ .text          0x0000000000000200       0x5e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4/crt0.o
+                0x0000000000000208                _result_code
+                0x000000000000020a                loadStackAddr
+                0x000000000000020c                start
+                0x0000000000000216                hw_init_hook
+                0x0000000000000250                __exit
+                0x000000000000025a                stop
+ .text          0x000000000000025e       0x64 C:\Users\User\AppData\Local\Temp\ccGia7mA.o
+                0x0000000000000270                __main
+ .text          0x00000000000002c2        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-clock.o)
+ .text          0x00000000000002c2        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-exit.o)
+ .text          0x00000000000002c2        0x2 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-impure.o)
+ .text          0x00000000000002c4        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memcpy.o)
+ .text          0x00000000000002c4        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-printf.o)
+ .text          0x00000000000002c4        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-timesr.o)
+ .text          0x00000000000002c4       0x3c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o)
+ .text          0x0000000000000300        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wsetup.o)
+ .text          0x0000000000000300       0x10 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o)
+ .text          0x0000000000000310        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fflush.o)
+ .text          0x0000000000000310        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-findfp.o)
+ .text          0x0000000000000310        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fwalk.o)
+ .text          0x0000000000000310        0xc c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+ .text          0x000000000000031c        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-makebuf.o)
+ .text          0x000000000000031c        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+ .text          0x000000000000031c        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mem_dumb.o)
+ .text          0x000000000000031c        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memchr.o)
+ .text          0x000000000000031c        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+ .text          0x000000000000031c        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memset.o)
+ .text          0x000000000000031c        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+ .text          0x000000000000031c        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-realloc.o)
+ .text          0x000000000000031c        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-s_fpclassify.o)
+ .text          0x000000000000031c        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-stdio.o)
+ .text          0x000000000000031c        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-strcmp.o)
+ .text          0x000000000000031c        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-strlen.o)
+ .text          0x000000000000031c       0x2a c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfiprintf.o)
+ .text          0x0000000000000346        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-writer.o)
+ .text          0x0000000000000346        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-calloc.o)
+ .text          0x0000000000000346        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-closer.o)
+ .text          0x0000000000000346        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fclose.o)
+ .text          0x0000000000000346        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fputwc.o)
+ .text          0x0000000000000346        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-free.o)
+ .text          0x0000000000000346        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fstatr.o)
+ .text          0x0000000000000346        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fvwrite.o)
+ .text          0x0000000000000346        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-isattyr.o)
+ .text          0x0000000000000346        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-lseekr.o)
+ .text          0x0000000000000346        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memmove.o)
+ .text          0x0000000000000346        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-readr.o)
+ .text          0x0000000000000346        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-reent.o)
+ .text          0x0000000000000346        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wbuf.o)
+ .text          0x0000000000000346        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wcrtomb.o)
+ .text          0x0000000000000346        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wctomb_r.o)
+ .text          0x0000000000000346       0x8c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(arsh32.o)
+                0x0000000000000346                ARShift32
+ .text          0x00000000000003d2       0xc0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(dadd.o)
+                0x00000000000003d2                DAdd
+ .text          0x0000000000000492      0x154 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(daux.o)
+                0x0000000000000492                DFrExp
+                0x00000000000004d6                DResult
+ .text          0x00000000000005e6       0x72 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(dcmp.o)
+                0x00000000000005e6                DCmp
+ .text          0x0000000000000658       0xa2 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(ddiv.o)
+                0x0000000000000658                DDiv
+ .text          0x00000000000006fa       0x7a c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(div32.o)
+                0x000000000000071c                UDiv32
+                0x000000000000072e                IDiv32
+ .text          0x0000000000000774       0xac c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(div64.o)
+                0x000000000000079c                IDiv64
+                0x0000000000000802                UDiv64
+ .text          0x0000000000000820       0xba c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(dmul.o)
+                0x0000000000000820                DMul
+ .text          0x00000000000008da       0x58 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(dtoi32.o)
+                0x00000000000008da                ConvDtoI32
+ .text          0x0000000000000932        0x8 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(fp_flags.o)
+                0x0000000000000932                FPIEEE_Signal
+ .text          0x000000000000093a       0x1c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(i32tod.o)
+                0x000000000000093a                ConvI32toD
+ .text          0x0000000000000956       0x8c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(lsh32.o)
+                0x0000000000000956                LShift32
+ .text          0x00000000000009e2      0x11c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(lsh64.o)
+                0x00000000000009e2                LShift64
+ .text          0x0000000000000afe       0x62 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(mod32.o)
+                0x0000000000000afe                UMod32
+                0x0000000000000b2a                IMod32
+ .text          0x0000000000000b60       0x88 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(mod64.o)
+                0x0000000000000b60                UMod64
+                0x0000000000000b9c                IMod64
+ .text          0x0000000000000be8       0x1a c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(mul32.o)
+                0x0000000000000be8                Mul32
+ .text          0x0000000000000c02       0x8c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(rsh32.o)
+                0x0000000000000c02                RShift32
+ .text          0x0000000000000c8e      0x11c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(rsh64.o)
+                0x0000000000000c8e                RShift64
+ .text          0x0000000000000daa       0x18 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(u32tod.o)
+                0x0000000000000daa                ConvU32toD
+ .text          0x0000000000000dc2      0x3b8 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libsemihost.a(semiwrapper.o)
+                0x0000000000000dc2                __open
+                0x0000000000000e64                __close
+                0x0000000000000e7a                __read
+                0x0000000000000ea6                __write
+                0x0000000000000f22                __kill
+                0x0000000000000f2c                __getpid
+                0x0000000000000f36                __lseek
+                0x0000000000000f74                __stat
+                0x0000000000000ff6                _lstat
+                0x0000000000001078                __fstat
+                0x00000000000010fa                _utime
+                0x0000000000001104                _fchmod
+                0x000000000000110e                _fchown
+                0x0000000000001118                __isatty
+                0x0000000000001122                __link
+                0x000000000000112c                __unlink
+                0x0000000000001136                __gettimeofday
+                0x0000000000001150                __times
+ .text          0x000000000000117a       0x66 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libsemihost.a(semihost.o)
+                0x000000000000117a                _semi_fclose
+                0x000000000000118a                _semi_fwrite
+                0x00000000000011a8                _semi_fread
+                0x00000000000011c6                _semi_fseek
+ .text          0x00000000000011e0        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-abort.o)
+ .text          0x00000000000011e0        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signal.o)
+ .text          0x00000000000011e0        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signalr.o)
+
+.init           0x00000000000011e0        0x4
+ *(.init)
+ .init          0x00000000000011e0        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4/crti.o
+                0x00000000000011e0                _init
+ .init          0x00000000000011e0        0x4 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4/crtn.o
+
+.fini           0x00000000000011e4        0x4
+ *(.fini)
+ .fini          0x00000000000011e4        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4/crti.o
+                0x00000000000011e4                _fini
+ .fini          0x00000000000011e4        0x4 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4/crtn.o
+
+.data           0x0000000000010000        0x0
+ *(.data)
+ .data          0x0000000000010000        0x0 C:\Users\User\AppData\Local\Temp\ccGia7mA.o
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-clock.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-exit.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-impure.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memcpy.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-printf.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-timesr.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wsetup.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fflush.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-findfp.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fwalk.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-makebuf.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mem_dumb.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memchr.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memset.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-realloc.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-s_fpclassify.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-stdio.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-strcmp.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-strlen.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfiprintf.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-writer.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-calloc.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-closer.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fclose.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fputwc.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-free.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fstatr.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fvwrite.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-isattyr.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-lseekr.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memmove.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-readr.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-reent.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wbuf.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wcrtomb.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wctomb_r.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libsemihost.a(semiwrapper.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libsemihost.a(semihost.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-abort.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signal.o)
+ .data          0x0000000000010000        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signalr.o)
+
+.data.__impure_ptr
+                0x0000000000010000        0x2
+ .data.__impure_ptr
+                0x0000000000010000        0x2 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-impure.o)
+                0x0000000000010000                __impure_ptr
+
+.data._impure_data
+                0x0000000000010002       0x3c
+ .data._impure_data
+                0x0000000000010002       0x3c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-impure.o)
+
+.data._lc_message_charset
+                0x000000000001003e       0x20
+ .data._lc_message_charset
+                0x000000000001003e       0x20 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+
+.data._lc_ctype_charset
+                0x000000000001005e       0x20
+ .data._lc_ctype_charset
+                0x000000000001005e       0x20 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+
+.data._lconv    0x000000000001007e       0x18
+ .data._lconv   0x000000000001007e       0x18 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+
+.data.__PathLocale
+                0x0000000000010096        0x2
+ .data.__PathLocale
+                0x0000000000010096        0x2 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+                0x0000000000010096                __PathLocale
+
+.data.___mlocale_changed
+                0x0000000000010098        0x2
+ .data.___mlocale_changed
+                0x0000000000010098        0x2 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+                0x0000000000010098                ___mlocale_changed
+
+.data.___nlocale_changed
+                0x000000000001009a        0x2
+ .data.___nlocale_changed
+                0x000000000001009a        0x2 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+                0x000000000001009a                ___nlocale_changed
+
+.data.___mb_cur_max
+                0x000000000001009c        0x2
+ .data.___mb_cur_max
+                0x000000000001009c        0x2 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+                0x000000000001009c                ___mb_cur_max
+
+.data._nmc_current_heap
+                0x000000000001009e        0x2
+ .data._nmc_current_heap
+                0x000000000001009e        0x2 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+
+.data.__hcb_arr
+                0x00000000000100a0      0x320
+ .data.__hcb_arr
+                0x00000000000100a0      0x320 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x00000000000100a0                __hcb_arr
+
+.data.__D_HEAP_END_ARR
+                0x00000000000103c0       0x20
+ .data.__D_HEAP_END_ARR
+                0x00000000000103c0       0x20 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mem_dumb.o)
+                0x00000000000103c0                __D_HEAP_END_ARR
+
+.data.__D_HEAP_BASE_ARR
+                0x00000000000103e0       0x20
+ .data.__D_HEAP_BASE_ARR
+                0x00000000000103e0       0x20 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mem_dumb.o)
+                0x00000000000103e0                __D_HEAP_BASE_ARR
+
+.data.__h_inited_arr
+                0x0000000000010400       0x20
+ .data.__h_inited_arr
+                0x0000000000010400       0x20 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mem_dumb.o)
+                0x0000000000010400                __h_inited_arr
+
+.data.__heap_used_arr
+                0x0000000000010420       0x20
+ .data.__heap_used_arr
+                0x0000000000010420       0x20 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mem_dumb.o)
+                0x0000000000010420                __heap_used_arr
+
+.data.___wctomb
+                0x0000000000010440        0x2
+ .data.___wctomb
+                0x0000000000010440        0x2 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wctomb_r.o)
+                0x0000000000010440                ___wctomb
+
+.data_asm       0x0000000000010442        0x2
+ .data_asm      0x0000000000010442        0x2 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a(fp_flags.o)
+                0x0000000000010442                __FPIEEE_Flags
+                0x0000000000010443                __FPIEEE_RoundMode
+
+.bss            0x0000000000010444        0x3
+ *(.bss)
+ .bss           0x0000000000010444        0x0 C:\Users\User\AppData\Local\Temp\ccGia7mA.o
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-clock.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-exit.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-impure.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-printf.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-timesr.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wsetup.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fflush.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-findfp.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fwalk.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-makebuf.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mem_dumb.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memchr.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memset.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-realloc.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-s_fpclassify.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-stdio.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-strcmp.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-strlen.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfiprintf.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-writer.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-calloc.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-closer.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fclose.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fputwc.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-free.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fstatr.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fvwrite.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-isattyr.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-lseekr.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memmove.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-readr.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-reent.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wbuf.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wcrtomb.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wctomb_r.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libsemihost.a(semiwrapper.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libsemihost.a(semihost.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-abort.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signal.o)
+ .bss           0x0000000000010444        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signalr.o)
+ COMMON         0x0000000000010444        0x1 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-free.o)
+                0x0000000000010444                ___free_hook
+ *fill*         0x0000000000010445        0x1 
+ COMMON         0x0000000000010446        0x1 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-reent.o)
+                0x0000000000010446                _errno
+
+.bss.fini_called.1781
+                0x0000000000010448        0x2
+ .bss.fini_called.1781
+                0x0000000000010448        0x2 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-exit.o)
+
+.heap4          0x000000000001044a        0x0
+ .heap4         0x000000000001044a        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+
+.heap5          0x000000000001044a        0x0
+ .heap5         0x000000000001044a        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+
+.heap6          0x000000000001044a        0x0
+ .heap6         0x000000000001044a        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+
+.heap7          0x000000000001044a        0x0
+ .heap7         0x000000000001044a        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+
+.heap8          0x000000000001044a        0x0
+ .heap8         0x000000000001044a        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+
+.heap9          0x000000000001044a        0x0
+ .heap9         0x000000000001044a        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+
+.heap10         0x000000000001044a        0x0
+ .heap10        0x000000000001044a        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+
+.heap11         0x000000000001044a        0x0
+ .heap11        0x000000000001044a        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+
+.heap12         0x000000000001044a        0x0
+ .heap12        0x000000000001044a        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+
+.heap13         0x000000000001044a        0x0
+ .heap13        0x000000000001044a        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+
+.heap14         0x000000000001044a        0x0
+ .heap14        0x000000000001044a        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+
+.heap15         0x000000000001044a        0x0
+ .heap15        0x000000000001044a        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+
+.stack          0x0000000000018000      0x800
+ *(.stack)
+ .stack         0x0000000000018000      0x800 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4/crt0.o
+                0x0000000000018000                STACK
+
+.data.imu0
+ *(.data.imu0)
+ *(.data.imu0.bss)
+
+.data.imu1      0x0000000000008000      0x190
+ *(.data.imu1)
+ .data.imu1     0x0000000000008000      0x190 C:\Users\User\AppData\Local\Temp\ccGia7mA.o
+                0x0000000000008000                _in
+ *(.data.imu1.bss)
+
+.data.imu2      0x000000000001044a      0x190
+ *(.data.imu2)
+ .data.imu2     0x000000000001044a      0x190 C:\Users\User\AppData\Local\Temp\ccGia7mA.o
+                0x000000000001044a                _out
+ *(.data.imu2.bss)
+
+.data.imu3
+ *(.data.imu3)
+ *(.data.imu3.bss)
+
+.text.emi       0x0000000020000000     0x8072
+ *(.text.*)
+ .text._clock   0x0000000020000000       0xa2 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-clock.o)
+                0x0000000020000000                _clock
+ .text._exit    0x00000000200000a2       0x4a c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-exit.o)
+                0x00000000200000a2                _exit
+ .text._memcpy  0x00000000200000ec      0x13c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memcpy.o)
+                0x00000000200000ec                _memcpy
+ .text.__printf_r
+                0x0000000020000228       0x68 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-printf.o)
+                0x0000000020000228                __printf_r
+ .text._printf  0x0000000020000290       0x66 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-printf.o)
+                0x0000000020000290                _printf
+ .text.__times_r
+                0x00000000200002f6       0x20 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-timesr.o)
+                0x00000000200002f6                __times_r
+ .text.__vfprintf_r
+                0x0000000020000316     0x1ac2 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o)
+                0x0000000020000316                __vfprintf_r
+ .text._vfprintf
+                0x0000000020001dd8       0x20 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o)
+                0x0000000020001dd8                _vfprintf
+ .text.___sbprintf
+                0x0000000020001df8       0x82 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o)
+ .text.___swsetup_r
+                0x0000000020001e7a      0x152 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wsetup.o)
+                0x0000000020001e7a                ___swsetup_r
+ .text._quorem  0x0000000020001fcc      0x12e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o)
+ .text.__dtoa_r
+                0x00000000200020fa     0x1694 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o)
+                0x00000000200020fa                __dtoa_r
+ .text.___sflush_r
+                0x000000002000378e      0x292 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fflush.o)
+                0x000000002000378e                ___sflush_r
+ .text.__fflush_r
+                0x0000000020003a20       0x9e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fflush.o)
+                0x0000000020003a20                __fflush_r
+ .text._fflush  0x0000000020003abe       0x30 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fflush.o)
+                0x0000000020003abe                _fflush
+ .text.__cleanup_r
+                0x0000000020003aee       0x18 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-findfp.o)
+                0x0000000020003aee                __cleanup_r
+ .text.___sfmoreglue
+                0x0000000020003b06       0x4c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-findfp.o)
+                0x0000000020003b06                ___sfmoreglue
+ .text.__cleanup
+                0x0000000020003b52       0x14 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-findfp.o)
+                0x0000000020003b52                __cleanup
+ .text.___sinit
+                0x0000000020003b66      0x1f8 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-findfp.o)
+                0x0000000020003b66                ___sinit
+ .text.___sfp   0x0000000020003d5e       0xcc c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-findfp.o)
+                0x0000000020003d5e                ___sfp
+ .text.__fwalk  0x0000000020003e2a       0x6c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fwalk.o)
+                0x0000000020003e2a                __fwalk
+ .text.__fwalk_reent
+                0x0000000020003e96       0x74 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fwalk.o)
+                0x0000000020003e96                __fwalk_reent
+ .text.__setlocale_r
+                0x0000000020003f0a       0x58 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+                0x0000000020003f0a                __setlocale_r
+ .text.___locale_charset
+                0x0000000020003f62        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+                0x0000000020003f62                ___locale_charset
+ .text.___locale_mb_cur_max
+                0x0000000020003f68        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+                0x0000000020003f68                ___locale_mb_cur_max
+ .text.___locale_msgcharset
+                0x0000000020003f6e        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+                0x0000000020003f6e                ___locale_msgcharset
+ .text.___locale_cjk_lang
+                0x0000000020003f74        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+                0x0000000020003f74                ___locale_cjk_lang
+ .text.__localeconv_r
+                0x0000000020003f7a        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+                0x0000000020003f7a                __localeconv_r
+ .text._setlocale
+                0x0000000020003f80       0x1c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+                0x0000000020003f80                _setlocale
+ .text._localeconv
+                0x0000000020003f9c        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+                0x0000000020003f9c                _localeconv
+ .text.___smakebuf_r
+                0x0000000020003fa2      0x116 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-makebuf.o)
+                0x0000000020003fa2                ___smakebuf_r
+ .text._align   0x00000000200040b8       0x6e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+ .text._morecore
+                0x0000000020004126      0x188 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+ .text.___malloc_internal
+                0x00000000200042ae      0x42c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x00000000200042ae                ___malloc_internal
+ .text._nmc_malloc_set_heap
+                0x00000000200046da        0xc c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x00000000200046da                _nmc_malloc_set_heap
+ .text._nmc_malloc_get_heap
+                0x00000000200046e6        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x00000000200046e6                _nmc_malloc_get_heap
+ .text._malloc  0x00000000200046ec       0x4c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x00000000200046ec                _malloc
+ .text._malloc0
+                0x0000000020004738       0x1a c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x0000000020004738                _malloc0
+ .text._malloc1
+                0x0000000020004752       0x18 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x0000000020004752                _malloc1
+ .text._malloc2
+                0x000000002000476a       0x18 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x000000002000476a                _malloc2
+ .text._malloc3
+                0x0000000020004782       0x18 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x0000000020004782                _malloc3
+ .text.__malloc
+                0x000000002000479a       0x14 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x000000002000479a                __malloc
+ .text.__free   0x00000000200047ae       0x14 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x00000000200047ae                __free
+ .text.__realloc
+                0x00000000200047c2       0x18 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x00000000200047c2                __realloc
+ .text.__malloc_r
+                0x00000000200047da       0x14 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x00000000200047da                __malloc_r
+ .text.__calloc_r
+                0x00000000200047ee       0x18 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x00000000200047ee                __calloc_r
+ .text.__realloc_r
+                0x0000000020004806       0x18 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x0000000020004806                __realloc_r
+ .text.__free_r
+                0x000000002000481e       0x14 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x000000002000481e                __free_r
+ .text.___default_morecore
+                0x0000000020004832       0x90 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mem_dumb.o)
+                0x0000000020004832                ___default_morecore
+ .text.___no_morecore
+                0x00000000200048c2        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mem_dumb.o)
+                0x00000000200048c2                ___no_morecore
+ .text.___default_morecore0
+                0x00000000200048c8       0x1a c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mem_dumb.o)
+                0x00000000200048c8                ___default_morecore0
+ .text.___default_morecore1
+                0x00000000200048e2       0x18 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mem_dumb.o)
+                0x00000000200048e2                ___default_morecore1
+ .text.___default_morecore2
+                0x00000000200048fa       0x18 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mem_dumb.o)
+                0x00000000200048fa                ___default_morecore2
+ .text.___default_morecore3
+                0x0000000020004912       0x18 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mem_dumb.o)
+                0x0000000020004912                ___default_morecore3
+ .text._memchr  0x000000002000492a       0x42 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memchr.o)
+                0x000000002000492a                _memchr
+ .text._memset  0x000000002000496c       0x24 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memset.o)
+                0x000000002000496c                _memset
+ .text.__Balloc
+                0x0000000020004990       0xc0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x0000000020004990                __Balloc
+ .text.__Bfree  0x0000000020004a50       0x42 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x0000000020004a50                __Bfree
+ .text.___multadd
+                0x0000000020004a92       0xa6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x0000000020004a92                ___multadd
+ .text.___s2b   0x0000000020004b38       0xb0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x0000000020004b38                ___s2b
+ .text.___hi0bits
+                0x0000000020004be8       0x5e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x0000000020004be8                ___hi0bits
+ .text.___lo0bits
+                0x0000000020004c46       0x92 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x0000000020004c46                ___lo0bits
+ .text.___i2b   0x0000000020004cd8       0x20 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x0000000020004cd8                ___i2b
+ .text.___multiply
+                0x0000000020004cf8      0x14c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x0000000020004cf8                ___multiply
+ .text.___pow5mult
+                0x0000000020004e44       0xfe c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x0000000020004e44                ___pow5mult
+ .text.___lshift
+                0x0000000020004f42       0xda c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x0000000020004f42                ___lshift
+ .text.___mcmp  0x000000002000501c       0x4e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x000000002000501c                ___mcmp
+ .text.___mdiff
+                0x000000002000506a       0xf0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x000000002000506a                ___mdiff
+ .text.___ulp   0x000000002000515a       0x92 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x000000002000515a                ___ulp
+ .text.___b2d   0x00000000200051ec      0x14c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x00000000200051ec                ___b2d
+ .text.___d2b   0x0000000020005338       0xd8 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x0000000020005338                ___d2b
+ .text.___ratio
+                0x0000000020005410       0xc2 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x0000000020005410                ___ratio
+ .text.__mprec_log10
+                0x00000000200054d2       0x52 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x00000000200054d2                __mprec_log10
+ .text.___copybits
+                0x0000000020005524       0x54 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x0000000020005524                ___copybits
+ .text.___any_on
+                0x0000000020005578       0x7a c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x0000000020005578                ___any_on
+ .text.___realloc_internal
+                0x00000000200055f2       0xa0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-realloc.o)
+ .text._realloc0
+                0x0000000020005692       0x1e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-realloc.o)
+                0x0000000020005692                _realloc0
+ .text._realloc1
+                0x00000000200056b0       0x1c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-realloc.o)
+                0x00000000200056b0                _realloc1
+ .text._realloc2
+                0x00000000200056cc       0x1c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-realloc.o)
+                0x00000000200056cc                _realloc2
+ .text._realloc3
+                0x00000000200056e8       0x1c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-realloc.o)
+                0x00000000200056e8                _realloc3
+ .text._alloc_somewhere
+                0x0000000020005704       0x9c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-realloc.o)
+                0x0000000020005704                _alloc_somewhere
+ .text._realloc
+                0x00000000200057a0       0xd4 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-realloc.o)
+                0x00000000200057a0                _realloc
+ .text.___fpclassifyd
+                0x0000000020005874       0x64 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-s_fpclassify.o)
+                0x0000000020005874                ___fpclassifyd
+ .text.___sread
+                0x00000000200058d8       0x52 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-stdio.o)
+                0x00000000200058d8                ___sread
+ .text.___seofread
+                0x000000002000592a        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-stdio.o)
+                0x000000002000592a                ___seofread
+ .text.___swrite
+                0x0000000020005930       0x7a c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-stdio.o)
+                0x0000000020005930                ___swrite
+ .text.___sseek
+                0x00000000200059aa       0x64 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-stdio.o)
+                0x00000000200059aa                ___sseek
+ .text.___sclose
+                0x0000000020005a0e       0x1a c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-stdio.o)
+                0x0000000020005a0e                ___sclose
+ .text._strcmp  0x0000000020005a28       0x26 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-strcmp.o)
+                0x0000000020005a28                _strcmp
+ .text._strlen  0x0000000020005a4e       0x22 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-strlen.o)
+                0x0000000020005a4e                _strlen
+ .text.___sprint_r.part.0
+                0x0000000020005a70       0xae c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfiprintf.o)
+ .text.___sprint_r
+                0x0000000020005b1e       0x2c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfiprintf.o)
+                0x0000000020005b1e                ___sprint_r
+ .text.__vfiprintf_r
+                0x0000000020005b4a      0xeb6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfiprintf.o)
+                0x0000000020005b4a                __vfiprintf_r
+ .text._vfiprintf
+                0x0000000020006a00       0x20 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfiprintf.o)
+                0x0000000020006a00                _vfiprintf
+ .text.___sbprintf
+                0x0000000020006a20       0x82 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfiprintf.o)
+ .text.__write_r
+                0x0000000020006aa2       0x3e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-writer.o)
+                0x0000000020006aa2                __write_r
+ .text._calloc  0x0000000020006ae0       0x38 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-calloc.o)
+                0x0000000020006ae0                _calloc
+ .text._calloc0
+                0x0000000020006b18       0x38 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-calloc.o)
+                0x0000000020006b18                _calloc0
+ .text._calloc1
+                0x0000000020006b50       0x38 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-calloc.o)
+                0x0000000020006b50                _calloc1
+ .text._calloc2
+                0x0000000020006b88       0x38 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-calloc.o)
+                0x0000000020006b88                _calloc2
+ .text._calloc3
+                0x0000000020006bc0       0x38 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-calloc.o)
+                0x0000000020006bc0                _calloc3
+ .text.__close_r
+                0x0000000020006bf8       0x36 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-closer.o)
+                0x0000000020006bf8                __close_r
+ .text.__fclose_r
+                0x0000000020006c2e      0x11a c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fclose.o)
+                0x0000000020006c2e                __fclose_r
+ .text._fclose  0x0000000020006d48       0x18 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fclose.o)
+                0x0000000020006d48                _fclose
+ .text.__fputwc_r
+                0x0000000020006d60      0x152 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fputwc.o)
+                0x0000000020006d60                __fputwc_r
+ .text._fputwc  0x0000000020006eb2       0xa0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fputwc.o)
+                0x0000000020006eb2                _fputwc
+ .text._free    0x0000000020006f52       0x50 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-free.o)
+                0x0000000020006f52                _free
+ .text.___free_internal
+                0x0000000020006fa2      0x322 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-free.o)
+                0x0000000020006fa2                ___free_internal
+ .text._free0   0x00000000200072c4       0x20 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-free.o)
+                0x00000000200072c4                _free0
+ .text._free1   0x00000000200072e4       0x1e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-free.o)
+                0x00000000200072e4                _free1
+ .text._free2   0x0000000020007302       0x1e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-free.o)
+                0x0000000020007302                _free2
+ .text._free3   0x0000000020007320       0x1e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-free.o)
+                0x0000000020007320                _free3
+ .text.__fstat_r
+                0x000000002000733e       0x3a c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fstatr.o)
+                0x000000002000733e                __fstat_r
+ .text.___sfvwrite_r
+                0x0000000020007378      0x45c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fvwrite.o)
+                0x0000000020007378                ___sfvwrite_r
+ .text.__isatty_r
+                0x00000000200077d4       0x36 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-isattyr.o)
+                0x00000000200077d4                __isatty_r
+ .text.__lseek_r
+                0x000000002000780a       0x58 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-lseekr.o)
+                0x000000002000780a                __lseek_r
+ .text._memmove
+                0x0000000020007862      0x14e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memmove.o)
+                0x0000000020007862                _memmove
+ .text.__read_r
+                0x00000000200079b0       0x3e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-readr.o)
+                0x00000000200079b0                __read_r
+ .text._cleanup_glue
+                0x00000000200079ee       0x3e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-reent.o)
+                0x00000000200079ee                _cleanup_glue
+ .text.__reclaim_reent
+                0x0000000020007a2c      0x14a c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-reent.o)
+                0x0000000020007a2c                __reclaim_reent
+ .text.___swbuf_r
+                0x0000000020007b76      0x138 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wbuf.o)
+                0x0000000020007b76                ___swbuf_r
+ .text.___swbuf
+                0x0000000020007cae       0x1c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wbuf.o)
+                0x0000000020007cae                ___swbuf
+ .text.__wcrtomb_r
+                0x0000000020007cca       0x6e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wcrtomb.o)
+                0x0000000020007cca                __wcrtomb_r
+ .text._wcrtomb
+                0x0000000020007d38       0x6e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wcrtomb.o)
+                0x0000000020007d38                _wcrtomb
+ .text.___ascii_wctomb
+                0x0000000020007da6       0x2e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wctomb_r.o)
+                0x0000000020007da6                ___ascii_wctomb
+ .text.__wctomb_r
+                0x0000000020007dd4       0x2e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wctomb_r.o)
+                0x0000000020007dd4                __wctomb_r
+ .text._abort   0x0000000020007e02       0x16 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-abort.o)
+                0x0000000020007e02                _abort
+ .text.__init_signal_r
+                0x0000000020007e18       0x52 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signal.o)
+                0x0000000020007e18                __init_signal_r
+ .text.__signal_r
+                0x0000000020007e6a       0x56 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signal.o)
+                0x0000000020007e6a                __signal_r
+ .text.__raise_r
+                0x0000000020007ec0       0x86 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signal.o)
+                0x0000000020007ec0                __raise_r
+ .text.___sigtramp_r
+                0x0000000020007f46       0x8e c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signal.o)
+                0x0000000020007f46                ___sigtramp_r
+ .text._raise   0x0000000020007fd4       0x18 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signal.o)
+                0x0000000020007fd4                _raise
+ .text._signal  0x0000000020007fec       0x1c c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signal.o)
+                0x0000000020007fec                _signal
+ .text.__init_signal
+                0x0000000020008008       0x10 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signal.o)
+                0x0000000020008008                __init_signal
+ .text.___sigtramp
+                0x0000000020008018       0x18 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signal.o)
+                0x0000000020008018                ___sigtramp
+ .text.__kill_r
+                0x0000000020008030       0x3a c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signalr.o)
+                0x0000000020008030                __kill_r
+ .text.__getpid_r
+                0x000000002000806a        0x8 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signalr.o)
+                0x000000002000806a                __getpid_r
+
+.bsst           0x0000000020008072        0x6
+ .bsst          0x0000000020008072        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4/crt0.o
+                0x0000000020008072                __bss_table_start
+
+.rodata.__global_impure_ptr
+                0x0000000020008078        0x2
+ .rodata.__global_impure_ptr
+                0x0000000020008078        0x2 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-impure.o)
+                0x0000000020008078                __global_impure_ptr
+
+.rodata.zeroes.4034
+                0x000000002000807a       0x10
+ .rodata.zeroes.4034
+                0x000000002000807a       0x10 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o)
+
+.rodata.blanks.4033
+                0x000000002000808a       0x10
+ .rodata.blanks.4033
+                0x000000002000808a       0x10 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o)
+
+.rodata.___sf_fake_stderr
+                0x000000002000809a        0xa
+ .rodata.___sf_fake_stderr
+                0x000000002000809a        0xa c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-findfp.o)
+                0x000000002000809a                ___sf_fake_stderr
+
+.rodata.___sf_fake_stdout
+                0x00000000200080a4        0xa
+ .rodata.___sf_fake_stdout
+                0x00000000200080a4        0xa c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-findfp.o)
+                0x00000000200080a4                ___sf_fake_stdout
+
+.rodata.___sf_fake_stdin
+                0x00000000200080ae        0xa
+ .rodata.___sf_fake_stdin
+                0x00000000200080ae        0xa c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-findfp.o)
+                0x00000000200080ae                ___sf_fake_stdin
+
+.rodata._oneLShift
+                0x00000000200080b8        0xc
+ .rodata._oneLShift
+                0x00000000200080b8        0xc c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+                0x00000000200080b8                _oneLShift
+
+.rodata.p05.2510
+                0x00000000200080c4        0x4
+ .rodata.p05.2510
+                0x00000000200080c4        0x4 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+
+.rodata.___mprec_tinytens
+                0x00000000200080c8        0xa
+ .rodata.___mprec_tinytens
+                0x00000000200080c8        0xa c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x00000000200080c8                ___mprec_tinytens
+
+.rodata.___mprec_bigtens
+                0x00000000200080d2        0xa
+ .rodata.___mprec_bigtens
+                0x00000000200080d2        0xa c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x00000000200080d2                ___mprec_bigtens
+
+.rodata.___mprec_tens
+                0x00000000200080dc       0x32
+ .rodata.___mprec_tens
+                0x00000000200080dc       0x32 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+                0x00000000200080dc                ___mprec_tens
+
+.rodata.zeroes.3977
+                0x000000002000810e       0x10
+ .rodata.zeroes.3977
+                0x000000002000810e       0x10 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfiprintf.o)
+
+.rodata.blanks.3976
+                0x000000002000811e       0x10
+ .rodata.blanks.3976
+                0x000000002000811e       0x10 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfiprintf.o)
+
+.data.emi
+ *(.data_ddr)
+ *(.data_ddr.bss)
+
+.heap           0x00000000000011e8     0x6e18
+ *(.heap)
+ .heap          0x00000000000011e8     0x1000 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+                0x00000000000011e8                __heap
+                0x0000000000008000                . = (ORIGIN (C0_IMU0) + 0x7e00)
+ *fill*         0x00000000000021e8     0x5e18 
+                0x0000000000008000                __HEAP_0_END = .
+
+.heap1          0x0000000000008190     0x7e70
+ *(.heap1)
+ .heap1         0x0000000000008190     0x1000 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+                0x0000000000008190                __heap1
+                0x0000000000010000                . = (ORIGIN (C0_IMU1) + 0x8000)
+ *fill*         0x0000000000009190     0x6e70 
+                0x0000000000010000                __HEAP_1_END = .
+
+.heap2          0x00000000000105da     0x7a26
+ *(.heap2)
+ .heap2         0x00000000000105da        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+                0x00000000000105da                __heap2
+                0x0000000000018000                . = (ORIGIN (C0_IMU2) + 0x8000)
+ *fill*         0x00000000000105da     0x7a26 
+                0x0000000000018000                __HEAP_2_END = .
+
+.heap3          0x0000000000018800     0x7800
+ *(.heap3)
+ .heap3         0x0000000000018800        0x0 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memory.o)
+                0x0000000000018800                __heap3
+                0x0000000000020000                . = (ORIGIN (C0_IMU3) + 0x8000)
+ *fill*         0x0000000000018800     0x7800 
+                0x0000000000020000                __HEAP_3_END = .
+
+.rpc_services.bss
+ *(.rpc_services.bss)
+
+.rpc_services
+ *(.rpc_services)
+LOAD C:\Users\User\AppData\Local\Temp\ccGia7mA.o
+LOAD c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a
+LOAD c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a
+LOAD c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libsemihost.a
+LOAD c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a
+LOAD c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a
+LOAD c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/nmc4\libgcc.a
+LOAD c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libsemihost.a
+LOAD c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a
+LOAD c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a
+LOAD c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4/crtn.o
+OUTPUT(test.abs elf32-nmc)
+
+.debug_frame    0x0000000000000000        0xb
+ .debug_frame   0x0000000000000000        0xb C:\Users\User\AppData\Local\Temp\ccGia7mA.o
+
+.debug_info     0x0000000000000000       0xb7
+ .debug_info    0x0000000000000000       0xb7 C:\Users\User\AppData\Local\Temp\ccGia7mA.o
+
+.debug_abbrev   0x0000000000000000       0x45
+ .debug_abbrev  0x0000000000000000       0x45 C:\Users\User\AppData\Local\Temp\ccGia7mA.o
+
+.debug_loc      0x0000000000000000        0xb
+ .debug_loc     0x0000000000000000        0xb C:\Users\User\AppData\Local\Temp\ccGia7mA.o
+
+.debug_aranges  0x0000000000000000        0x8
+ .debug_aranges
+                0x0000000000000000        0x8 C:\Users\User\AppData\Local\Temp\ccGia7mA.o
+
+.debug_line     0x0000000000000000       0x2a
+ .debug_line    0x0000000000000000       0x2a C:\Users\User\AppData\Local\Temp\ccGia7mA.o
+
+.debug_str      0x0000000000000000        0x0
+ .debug_str     0x0000000000000000        0x0 C:\Users\User\AppData\Local\Temp\ccGia7mA.o
+
+.comment        0x0000000000000000        0x6
+ .comment       0x0000000000000000        0x6 C:\Users\User\AppData\Local\Temp\ccGia7mA.o
+                                          0x6 (size before relaxing)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-clock.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-exit.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-impure.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-printf.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-timesr.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfprintf.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wsetup.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-dtoa.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fflush.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-findfp.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fwalk.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-locale.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-makebuf.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-malloc.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mem_dumb.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memchr.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memset.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-mprec.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-realloc.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-s_fpclassify.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-stdio.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-strcmp.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-strlen.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-vfiprintf.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-writer.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-calloc.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-closer.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fclose.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fputwc.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-free.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fstatr.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-fvwrite.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-isattyr.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-lseekr.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-memmove.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-readr.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-reent.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wbuf.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wcrtomb.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libc.a(lib_a-wctomb_r.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libsemihost.a(semiwrapper.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libsemihost.a(semihost.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-abort.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signal.o)
+ .comment       0x0000000000000000        0x6 c:/module/nmcsdk/bin/../lib/gcc/nmc/4.8.3/../../../../nmc/lib/nmc4\libg.a(lib_a-signalr.o)
